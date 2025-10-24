@@ -1,0 +1,9 @@
+# print ("PRIMEIRA ATIVIDADE")
+
+num1 = int(input("Digite um número: "))
+num2 = int(input("Digite outro número: "))
+
+print (f"Para soma: {num1 + num2}")
+print (f"Para subtração:  {num1 - num2}")
+print (f"Para divisão: {num1 / num2}")
+print (f"Para multiplicação: {num1 * num2}")
