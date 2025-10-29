@@ -24,10 +24,14 @@ print (f"Elevando a potência é: Resultado {3**4} ")
 
 print (f"A média é: Resultado {8*12*15/3}")
 
-
 # Subtraia 10 de 2 e multiplique o resultado por 5.(Concatene com a palavra resultado)
 
+result = (10-2*5)
 
-
+print ("Resultado", result)
 
 # Divida 27 por 3 e some 5.(Concatene com a palavra resultado)
+
+result2 = (27/3+5)
+
+print ("O resultado é:", result2)
