@@ -1,0 +1,33 @@
+# VAMOS PRATICAR COM VARIÁVEIS:
+
+# Multiplique 4 por 6 e divida o resultado por 2. (Concatene com a palavra resultado)
+
+num1 = 4 
+num2 = 6 
+
+result =  ((num1*num2)/2)
+print ("resultado", result)
+
+# Calcule a soma de 5 e 7.(Concatene com a palavra resultado)
+
+var1 = 5 
+var2 = 7 
+
+result2 =  ((var1*var2)/2)
+print ("resultado", result2)
+
+# Eleve 3 à potência de 4.(Concatene com a palavra resultado)
+
+print (f"Elevando a potência é: Resultado {3**4} ")
+
+# Calcule a média de 8, 12 e 15.(Concatene com a palavra resultado)
+
+print (f"A média é: Resultado {8*12*15/3}")
+
+
+# Subtraia 10 de 2 e multiplique o resultado por 5.(Concatene com a palavra resultado)
+
+
+
+
+# Divida 27 por 3 e some 5.(Concatene com a palavra resultado)
