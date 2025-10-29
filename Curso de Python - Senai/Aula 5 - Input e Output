@@ -1,1 +1,76 @@
 
+#Utilize as 5 concatenações, teste todas 
+
+# 1 Imprima uma mensagem de boas-vindas na tela.
+
+print ("Bem vindo")
+
+
+
+# 2 Declare uma variável booleana verdadeiro com o valor True e imprima seu tipo
+
+x = True 
+
+print (type(x))
+
+
+# 3 Imprima o resultado da multiplicação de dois números decimais de sua escolha
+
+x = 10 
+y= 20
+
+print (f"O resultado da multiplicação é: {x * y}")
+
+# 4 Imprima o resultado da divisão (/) de dois números inteiros 
+
+a = 50 
+b = 30
+
+print (f"O resultado a divisão é: {a / b}")
+
+# 5 Imprima o resultado da divisão (//)inteira de dois números inteiros 
+
+var1 = 60 
+var2 = 40
+
+print (f"O resultado a divisão é {var1 // var2}")
+
+
+# 6 Imprima o resultado da subtração de dois números inteiros de sua escolha
+
+var3 = 60 
+var4 = 40
+
+print (f"O resultado a subtração é: {var3 - var4}")
+
+
+
+# 7 Imprima o resultado da multiplicação de 4 números 
+
+var5 = 60 
+var6 = 40
+var7 = 80
+var8 = 100
+
+print (f"O resultado a multiplicação é: {var5 * var6 * var7 * var8}")
+
+
+
+# 8 Declare uma variável numero e atribua um número inteiro. Em seguida, 
+# imprima o dobro desse número
+
+num6 = 10 
+
+print (f"O dobro é: {num6*2}")
+
+# 9 Crie um sistema de cadastro com as estruturas que vc já 
+# conhece(Use apenas input, print e variavel)
+
+
+
+num1 = (int(input("Insira a primeira nota: ")))
+num2 = (int(input("Insira a segunda nota: ")))
+num3 = (int(input("Digite a terceira nota: ")))
+
+media = ((num1+num2+num3)/3)
+print ("A média é:", media)
