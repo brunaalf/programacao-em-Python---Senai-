@@ -30,3 +30,10 @@ print (numeros)
 
 lista_carros = ["Corsa,Celta,Idea"]
 print (lista_carros + numeros)
+
+print(numeros, lista_carros)
+
+numeros += (lista_carros)
+
+print(numeros)
+
